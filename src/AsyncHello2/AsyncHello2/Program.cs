@@ -72,22 +72,22 @@ namespace AsyncHello2
 
         static void method1()
         {
-            // Task.Delay(3000);
-            Thread.Sleep(3000);
+            Task.Delay(3000);
+            //Thread.Sleep(3000);
             Console.WriteLine($"method1 ===> " + DateTime.Now);
         }
 
         static void method2()
         {
-            //Task.Delay(3000);
-            Thread.Sleep(3000);
+            Task.Delay(3000);
+            //Thread.Sleep(3000);
             Console.WriteLine($"method2 ===> " + DateTime.Now);
         }
 
         static void method3()
         {
-            //Task.Delay(3000);
-            Thread.Sleep(3000);
+            Task.Delay(3000);
+            //Thread.Sleep(3000);
             Console.WriteLine($"method3 ===> " + DateTime.Now);
 
         }
