@@ -1,0 +1,13 @@
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.exe
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.deps.json
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.runtimeconfig.json
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.runtimeconfig.dev.json
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.dll
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.pdb
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.csprojAssemblyReference.cache
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.AssemblyInfoInputs.cache
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.AssemblyInfo.cs
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.csproj.CoreCompileInputs.cache
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.dll
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.pdb
+C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.genruntimeconfig.cache
