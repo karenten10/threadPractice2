@@ -1,0 +1,13 @@
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\bin\Debug\netcoreapp3.1\AsyncHello.exe
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\bin\Debug\netcoreapp3.1\AsyncHello.deps.json
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\bin\Debug\netcoreapp3.1\AsyncHello.runtimeconfig.json
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\bin\Debug\netcoreapp3.1\AsyncHello.runtimeconfig.dev.json
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\bin\Debug\netcoreapp3.1\AsyncHello.dll
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\bin\Debug\netcoreapp3.1\AsyncHello.pdb
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\obj\Debug\netcoreapp3.1\AsyncHello.csprojAssemblyReference.cache
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\obj\Debug\netcoreapp3.1\AsyncHello.AssemblyInfoInputs.cache
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\obj\Debug\netcoreapp3.1\AsyncHello.AssemblyInfo.cs
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\obj\Debug\netcoreapp3.1\AsyncHello.csproj.CoreCompileInputs.cache
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\obj\Debug\netcoreapp3.1\AsyncHello.dll
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\obj\Debug\netcoreapp3.1\AsyncHello.pdb
+C:\practice\ThreadPractice2\src\AsyncHello\AsyncHello\obj\Debug\netcoreapp3.1\AsyncHello.genruntimeconfig.cache
