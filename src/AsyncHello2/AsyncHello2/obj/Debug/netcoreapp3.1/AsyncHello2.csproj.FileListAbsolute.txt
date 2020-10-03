@@ -11,3 +11,16 @@ C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\A
 C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.dll
 C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.pdb
 C:\Users\Karen Wu\source\repos\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.genruntimeconfig.cache
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.exe
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.deps.json
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.runtimeconfig.json
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.runtimeconfig.dev.json
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.dll
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\bin\Debug\netcoreapp3.1\AsyncHello2.pdb
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.csprojAssemblyReference.cache
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.AssemblyInfoInputs.cache
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.AssemblyInfo.cs
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.csproj.CoreCompileInputs.cache
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.dll
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.pdb
+C:\practice\ThreadPractice2\src\AsyncHello2\AsyncHello2\obj\Debug\netcoreapp3.1\AsyncHello2.genruntimeconfig.cache
